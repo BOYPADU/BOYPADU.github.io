@@ -1,0 +1,8 @@
+h1 {
+  border: 3px solid rgb(149, 97, 205);
+  border-radius: 20px;
+  text-shadow: 3px 3px 5px red, -3px -3px 5px rgb(38, 221, 221);
+}
+h2 {
+  text-shadow: 3px 3px 5px purple, -3px -3px 5px rgb(215, 208, 9);
+}
